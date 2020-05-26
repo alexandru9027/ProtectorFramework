@@ -27,7 +27,7 @@ var loginPage=function() {
     };
 
     this.getuserInfoText = function() {
-        return userInfo.getText();
+         return userInfo.getText();
       };
 };
 module.exports=new loginPage();
