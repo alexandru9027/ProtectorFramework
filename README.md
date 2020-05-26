@@ -5,7 +5,7 @@
 
 ## Description
  -Tests are separated in tests suites
-- From the command line you can easily switch between tests.Run tests: using commands like `protractor protractor.conf.js --suite homepage`
+- From the command line you can easily switch between tests. Run tests: using commands like `protractor protractor.conf.js --suite settings`
 
 
 ## Arhitecture
