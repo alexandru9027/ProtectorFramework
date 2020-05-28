@@ -18,8 +18,10 @@ exports.config = {
 
   suites: {
     settings: '../tests/example_spec.js',
-    login: '../tests/login_tests.js'
+    login: '../tests/login_tests.js',
+    files:'../tests/files_test.js'
   },
+
   
 
   // Options to be passed to Jasmine.
